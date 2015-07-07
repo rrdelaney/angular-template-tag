@@ -1,0 +1,21 @@
+{
+  "name": "angular-template-tag",
+  "main": "angular-template-tag.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rrdelaney/angular-template-tag",
+  "authors": [
+    "Ryan Delaney <rrdelaney@outlook.com>"
+  ],
+  "description": "Use ng-templates inside of <template>",
+  "keywords": [
+    "angular",
+    "template"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
