@@ -1,4 +1,4 @@
-angular.module('templateTag')
+angular.module('templateTag', [])
 .directive('template', ['$templateCache', function($templateCache) {
     return {
         restrict: 'E',
