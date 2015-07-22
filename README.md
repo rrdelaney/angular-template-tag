@@ -1,6 +1,6 @@
 # angular-template-tag
 
-<iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+[![Bower version](https://badge.fury.io/bo/angular-template-tag.svg)](http://badge.fury.io/bo/angular-template-tag)
 
 Use ng-templates inside of &lt;template>
 
